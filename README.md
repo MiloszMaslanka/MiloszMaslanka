@@ -1,4 +1,4 @@
-- Hi there👋 I'm Miłosz
+ Hi there👋 I'm Miłosz
 - 👀 I’m interested in learning programming and knowledge about new technologies. 
 - 🌱 I’m currently learning  java programming language. 
 -💞️ I’m looking to collaborate on with people with similar interests. 
